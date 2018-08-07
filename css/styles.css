@@ -1,5 +1,12 @@
-img {
-  dislay: none;
-  width: 50px;
-  height: auto;
+#walrus-showing {
+  display: none;
+}
+
+.clickable {
+  cursor: pointer;
+  color: #db2e8d;
+}
+
+.clickable:hover {
+  text-decoration: underline;
 }
